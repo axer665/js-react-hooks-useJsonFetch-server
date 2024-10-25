@@ -18,4 +18,4 @@ const [data, loading, error] = useJsonFetch(url, opts);
 * GET http://localhost:7070/error — получение 500 ошибки;
 * GET http://localhost:7070/loading — индикатор загрузки.
 
-Backend возьмите из каталога `backend`.
+Frontend находится в [репозитории](https://github.com/axer665/js-react-hooks-useJsonFetch).
